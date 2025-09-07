@@ -25,4 +25,3 @@ En **BrainInit** combino:
 - ✨ Código **ordenado y documentado**.  
 - 🎧 Referencias a los videos donde se desarrolla cada proyecto.  
 
-Estructura básica:
